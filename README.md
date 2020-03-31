@@ -1,2 +1,0 @@
-# codepalli
-code learning
